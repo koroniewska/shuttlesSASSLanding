@@ -1,0 +1,13 @@
+$brown: rgba(141, 45, 8, 1);
+$black: rgba(0, 0, 0, 1);
+$yellow: #F9CB40;
+
+$cursors: pointer auto inherit;
+
+$theme-colors: (
+        "primary": $brown,
+        "secondary": $black,
+        "warning": $yellow
+);
+
+$btn-background: rgba(141, 45, 8, 1);
